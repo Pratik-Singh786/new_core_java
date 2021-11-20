@@ -1,0 +1,5 @@
+2020/11/29-15:08:25.089 3bf0 Reusing MANIFEST C:\Users\prati\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_discuss.codechef.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/29-15:09:14.893 4ae4 Level-0 table #5: started
+2020/11/29-15:09:14.919 4ae4 Level-0 table #5: 63725 bytes OK
+2020/11/29-15:09:15.013 4ae4 Delete type=0 #3
+2020/11/29-15:09:15.014 13ec Manual compaction at level-0 from (begin) .. (end); will stop at (end)
